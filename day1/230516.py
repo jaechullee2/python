@@ -1,3 +1,1 @@
-import math
-math.pi
-exit()
+input()
